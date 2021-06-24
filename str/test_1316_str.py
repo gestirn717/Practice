@@ -86,3 +86,22 @@ for i in range(num):
         else: #멈춤없이 pass하면 카운터에 1추가
             count += 1
 print(count)
+
+
+# t_case = int(input())
+# cnt = 0
+# for i in range(t_case):
+#     w = list(str(input()))
+    
+    
+#     for j in range(len(w)):
+#         if j != len(w) - 1: #마지막이 아닐때 
+#             if w[j] == w[j+1]:
+#                 pass
+#             elif w[j] in w[j+1: ]:
+#                 break
+
+
+#         else:
+#             cnt += 1
+# print(cnt)

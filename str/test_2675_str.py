@@ -35,3 +35,4 @@ for i in range(r):
         n_word += a[j] *rpt
 
     print(n_word)
+    

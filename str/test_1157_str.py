@@ -30,3 +30,16 @@ if a.count(b) == 1:
     print(chr(a.index(b)+ord("A")))
 else:
     print("?")
+
+# w = list(input().upper())
+
+# a = []
+# for  i in range(ord("A"),ord("Z")+1):
+#     a.append(w.count(chr(i)))
+
+# b = max(a)
+
+# if a.count(b) == 1:
+#     print(chr(a.index(b)+ord("A")))
+# else:
+#     print("?")
